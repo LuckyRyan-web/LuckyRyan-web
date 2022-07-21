@@ -7,7 +7,7 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LuckyRyan-web&show_icons=true" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyRyan-web&layout=compact" />
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=LuckyRyan-web&show_icons=true" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyRyan-web&layout=compact" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=LuckyRyan-web&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
