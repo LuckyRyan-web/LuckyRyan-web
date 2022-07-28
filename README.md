@@ -52,7 +52,7 @@
 
     <strong>Hi, I am Ryan liu!👋 </strong>
 
-    <strong>This is my website <a href="https://luckyryan.cn/">https://luckyryan.cn/</a></strong>
+    <strong>This is my website <a href="http://www.ryan-liu.cn/">http://www.ryan-liu.cn/</a></strong>
 </pre> 
 
 
