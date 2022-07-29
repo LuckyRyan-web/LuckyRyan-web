@@ -8,8 +8,8 @@
       |  |                 |  |  |     |         |      |
       |  |                 |  |  |/----|`---=    |      |
       |  |                 |  |  |   ,/|==== ooo |      ;
-      |  |                 |  |  |  // |(((( [33]|    ,"
-      |  `-----------------'  |," .;'| |((((     |  ,"
+      |  |                 |  |  |  // |         |    ,"
+      |  `-----------------'  |," .;'| |         |  ,"
       +-----------------------+  ;;  | |         |,"
          /_)______________(_/  //'   | +---------+
     ___________________________/___  `,
@@ -52,7 +52,7 @@
 
     <strong>Hi, I am Ryan liu!👋 </strong>
 
-    <strong>This is my website <a href="http://www.ryan-liu.cn/">http://www.ryan-liu.cn/</a></strong>
+    <strong>This is my website <a href="https://www.ryan-liu.cn/">https://www.ryan-liu.cn/</a></strong>
 </pre> 
 
 
